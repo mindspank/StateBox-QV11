@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject Label="StateBox" Description="Plot Measures on a US Map" PageHeight="100">
+	<Dimension Label="State" Initial="" />
+	<Measurement Label="Expression 1" Initial="" />
+	<Measurement Label="Expression 2" Initial="" />
+	<Measurement Label="Expression 1 Color" Initial="" />
+	<Measurement Label="Expression 2 Color" Initial="" />
+	<Measurement Label="Tile Color" Initial="" />
+</ExtensionObject>

@@ -1,0 +1,21 @@
+path {
+  fill: #eee;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+
+rect {
+	stroke: #ccc;
+	fill-opacity: 0.8;
+}
+
+text {
+	font-family: Arial, sans-serif;
+	font-size: 10px;
+	pointer-events: none;
+}
+
+ .text-heading {
+ 	font-size: 8px;
+ 	font-weight: normal;
+ }
